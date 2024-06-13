@@ -66,3 +66,8 @@ ZIP Halo for the BBC micro:bit 15.90 €
 DC motor 7.00 €
 
 Jumper Wires Female to Female 3.00 €
+
+# Επιπλέον Πληροφορίες
+Δείτε την παρουσίαση του έργου μας: https://youtu.be/UjH4jx7mVyc
+
+Θα βρείτε τη σελίδα του έργου μας: https://openedtech.ellak.gr/robotics2024/smart-home-office-assistant/
